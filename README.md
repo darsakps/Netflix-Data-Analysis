@@ -73,9 +73,9 @@ The analysis was performed in a Jupyter Notebook using Python. The notebook incl
 
 ![Top Genres](Images/top_10_genres.png)
 
-### Top Content Rating
+## Top Content Rating
 
-![Top Content](images/top_content_rating.png)
+![Top Content Rating](Images/top_content_rating.png)
 
 ### Content Added Over the Years
 
