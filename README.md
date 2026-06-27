@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies and TV Shows Data Analysis
+# 📊 Netflix Movies & TV Shows Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
 
@@ -116,7 +116,26 @@ Netflix-Data-Analysis/
 ├── requirements.txt
 └── README.md
 ```
+## 📂 Dataset Source
 
+This project uses the **Netflix Movies and TV Shows** dataset available on Kaggle.
+
+- **Source:** https://www.kaggle.com/datasets/shivamb/netflix-shows
+- **Provider:** Shivam Bansal (Kaggle)
+- **File Used:** `netflix_titles.csv`
+
+The dataset contains information about Netflix titles, including:
+- Type (Movie/TV Show)
+- Title
+- Director
+- Cast
+- Country
+- Date Added
+- Release Year
+- Rating
+- Duration
+- Genre
+- Description
 ---
 
 ## 🚀 Skills Demonstrated
